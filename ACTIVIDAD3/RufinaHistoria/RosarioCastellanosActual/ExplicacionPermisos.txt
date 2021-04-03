@@ -1,0 +1,27 @@
+Niveles y tipos de permisos para archivos:
+
+
+Niveles.
+
+Propietario - Genera, crea un archivo o carpeta con los derechos.    
+Grupo - Formado por varios usuarios.
+Otros - El que no es propietario y no pertenece a nimgun grupo.
+
+
+Archivos.
+
+Lectura - Visualizar el contenido.          (4)
+Escritura - Crear, modificar y eliminar el contenido, y modificar los permisos.   (2)
+Ejecución - Permite ejecutar el contenido del archivo.    (1)
+
+     "chmod 777 NomArch"      3 permisos a los 3 usuarios
+
+
+Explicación de permisos para carpetas:
+
+
+Directorios (carpetas).
+
+Lectura - Visualizar el contenido.        (4)
+Escritura - Crear, modificar y eliminar archivos y carpetas dentro de este.      (2)
+Ejecución - Permite entrar a la carpeta.      (1)

@@ -1,0 +1,15 @@
+Niveles y tipos de permisos para archivos:
+
+
+Niveles.
+
+Propietario - Genera, crea un archivo o carpeta con los derechos.
+Grupo - Formado por varios usuarios.
+Otros - El que no es propietario y no pertenece a nimgun grupo.
+
+
+Archivos.
+
+Lectura - Visualizar el contenido.
+Escritura - Crear, modificar y eliminar el contenido, y modificar los permisos.
+Ejecución - Permite ejecutar el contenido del archivo.
